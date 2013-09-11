@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
    <feature url="features/com.fasterxml.jackson_2.2.3.jar" id="com.fasterxml.jackson" version="2.2.3"/>
-   <feature url="features/com.mysql_5.1.26.jar" id="com.mysql" version="5.1.26"/>
    <feature url="features/org.jfree.chart_1.0.15.jar" id="org.jfree.chart" version="1.0.15"/>
    <feature url="features/org.h2_1.3.173.jar" id="org.h2" version="1.3.173"/>
+   <feature url="features/org.tmatesoft.hg4j_1.2.0.jar" id="org.tmatesoft.hg4j" version="1.2"/>
+   <feature url="features/org.apache.commons.io_2.4.0.jar" id="org.apache.commons.io" version="2.4"/>
+   <feature url="features/com.mysql.jdbc_5.1.26.jar" id="com.mysql.jdbc" version="5.1.26"/>
 </site>
