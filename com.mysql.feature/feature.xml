@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="com.mysql"
+      id="com.mysql.jdbc"
       label="MySQL"
       version="5.1.26"
-      provider-name="MYSQL">
+      provider-name="MYSQL"
+      plugin="com.mysql">
 
    <description url="http://www.example.com/description">
       [Enter Feature Description here.]
@@ -16,5 +17,11 @@
    <license url="http://www.example.com/license">
       [Enter License Description here.]
    </license>
+
+   <plugin
+         id="com.mysql"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
 
 </feature>
