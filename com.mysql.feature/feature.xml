@@ -4,7 +4,7 @@
       label="MySQL"
       version="5.1.26"
       provider-name="MYSQL"
-      plugin="com.mysql">
+      plugin="com.mysql.jdbc">
 
    <description url="http://www.example.com/description">
       [Enter Feature Description here.]
@@ -19,7 +19,7 @@
    </license>
 
    <plugin
-         id="com.mysql"
+         id="com.mysql.jdbc"
          download-size="0"
          install-size="0"
          version="0.0.0"/>
