@@ -13,4 +13,5 @@ Export-Package: org.tmatesoft.hg.auth,
  org.tmatesoft.hg.repo,
  org.tmatesoft.hg.repo.ext,
  org.tmatesoft.hg.util
-Import-Package: com.trilead.ssh2;version="1.0.0"
+Bundle-ClassPath: .,
+ com.trilead.ssh2_1.0.0.build217_r155_v20130603_1628.jar
