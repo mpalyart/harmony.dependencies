@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="au.com.bytecode.opencsv"
+      label="OpenCSV"
+      version="2.3">
+
+   <plugin
+         id="au.com.bytecode.opencsv"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+</feature>

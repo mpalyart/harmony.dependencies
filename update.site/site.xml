@@ -18,5 +18,8 @@
    <feature url="features/org.apache.commons.io_2.4.0.jar" id="org.apache.commons.io" version="2.4">
       <category name="misc"/>
    </feature>
+   <feature url="features/au.com.bytecode.opencsv_2.3.0.jar" id="au.com.bytecode.opencsv" version="2.3">
+      <category name="misc"/>
+   </feature>
    <category-def name="misc" label="Misc"/>
 </site>
