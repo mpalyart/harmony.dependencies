@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="net.sf.saxon"
+      label="saxon"
+      version="1.0.0">
+
+   <plugin
+         id="net.sf.saxon"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+</feature>
