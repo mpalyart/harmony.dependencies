@@ -2,7 +2,7 @@
 <feature
       id="com.fasterxml.jackson"
       label="Jackson"
-      version="2.2.3"
+      version="2.2.3.qualifier"
       provider-name="FASTERXML"
       plugin="com.fasterxml.jackson">
 

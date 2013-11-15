@@ -2,10 +2,11 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Jackson
 Bundle-SymbolicName: com.fasterxml.jackson
-Bundle-Version: 2.2.3
+Bundle-Version: 2.2.3.qualifier
 Bundle-ClassPath: jackson-databind-2.2.3.jar,
  jackson-core-2.2.3.jar,
- jackson-annotations-2.2.3.jar
+ jackson-annotations-2.2.3.jar,
+ jackson-dataformat-xml-2.2.3.jar
 Export-Package: com.fasterxml.jackson.annotation,
  com.fasterxml.jackson.core,
  com.fasterxml.jackson.core.base,
@@ -34,5 +35,11 @@ Export-Package: com.fasterxml.jackson.annotation,
  com.fasterxml.jackson.databind.ser.impl,
  com.fasterxml.jackson.databind.ser.std,
  com.fasterxml.jackson.databind.type,
- com.fasterxml.jackson.databind.util
+ com.fasterxml.jackson.databind.util,
+ com.fasterxml.jackson.dataformat.xml,
+ com.fasterxml.jackson.dataformat.xml.annotation,
+ com.fasterxml.jackson.dataformat.xml.deser,
+ com.fasterxml.jackson.dataformat.xml.jaxb,
+ com.fasterxml.jackson.dataformat.xml.ser,
+ com.fasterxml.jackson.dataformat.xml.util
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
