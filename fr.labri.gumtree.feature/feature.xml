@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="fr.labri.Gumtree"
+      id="fr.labri.gumtree"
       label="Gumtree"
       version="1.0.0">
 
    <plugin
-         id="fr.labri.Gumtree"
+         id="fr.labri.gumtree"
          download-size="0"
          install-size="0"
          version="0.0.0"/>
