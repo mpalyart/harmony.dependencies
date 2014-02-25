@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Jdom
 Bundle-SymbolicName: org.jdom
-Bundle-Version: 2.0.5
+Bundle-Version: 2.0.5.1
 Bundle-ClassPath: jdom-2.0.5.jar
 Export-Package: org.jdom2,
  org.jdom2.adapters,
