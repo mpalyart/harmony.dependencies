@@ -2,7 +2,7 @@
 <feature
       id="org.jdom"
       label="jdom"
-      version="2.0.5">
+      version="2.0.5.1">
 
    <plugin
          id="org.jdom"
